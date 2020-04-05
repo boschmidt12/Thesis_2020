@@ -3,6 +3,7 @@
 This is a repository containing movies showing the reconstructions from FILD2 and FILD1 at AUG of discharges 34559 and 35336 respectively.
 
 34559 - Tikhonov:       lambda  = 1e-2
+
 34559 - Kaczmarz:       k       = 100
 34559 - Cimmino:        k       = 1000
 34559 - Landweber:      k       = 3000
